@@ -1,0 +1,14 @@
+Weeks: 102 
+Series: train 
+ARIMA(2,0,0)(0,1,0)[52] 
+
+Coefficients:
+          ar1      ar2
+      -0.1054  -0.2531
+s.e.   0.1612   0.1943
+
+sigma^2 = 2.115e+09:  log likelihood = -448.78
+AIC=903.56   AICc=904.29   BIC=908.39
+                  RMSE MAPE
+arima          67081.5 19.9
+seasonal_naive 67177.1 20.0

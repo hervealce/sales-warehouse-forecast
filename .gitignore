@@ -1,0 +1,16 @@
+data/retail.csv
+data/diabetic_data.csv
+data/IDS_mapping.csv
+data/*.zip
+data/*.xlsx
+data/*.duckdb
+data/*.duckdb.wal
+.venv/
+venv/
+mlruns/
+mlflow.db
+__pycache__/
+.pytest_cache/
+*.pyc
+.Rhistory
+.RData
